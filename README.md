@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Emerald Dapp for a decentralized emerald supply chain
+The main goal of this project is to reduce intermediaries between the miner and the final client.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
